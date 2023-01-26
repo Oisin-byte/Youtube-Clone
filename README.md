@@ -1,5 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
+## Live Demo Avaible
+### Open [https://youtube-digitalbulb.netlify.app/](https://youtube-digitalbulb.netlify.app/) to view it in the broweser
 ## Available Scripts
 
 In the project directory, you can run:
